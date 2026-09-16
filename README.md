@@ -2,7 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 [![Platform: macOS (Apple Silicon)](https://img.shields.io/badge/platform-macOS%20(Apple%20Silicon)-lightgrey.svg)](#requirements)
-[![Discord](https://img.shields.io/badge/discord-join-5865F2.svg)](https://discord.gg/CVjwWs6jnX)
+[![Discord](https://img.shields.io/badge/discord-join-5865F2.svg)](https://discord.gg/GUDC2pDNGD)
+
+> **Bahamut is the new home of the FINAL FANTASY XIV 1.23b development I am
+> working on moving forward.** If you'd like to participate as a developer or
+> tester, or try our hosted server, join our Discord:
+> <https://discord.gg/GUDC2pDNGD>
 
 A single-command installer that brings the original **FINAL FANTASY XIV
 1.0** — the 2010 release, not *A Realm Reborn* — up on an Apple Silicon
@@ -118,7 +123,10 @@ client (© SQUARE ENIX CO., LTD., not redistributed).
 
 ## Community
 
-Development discussion, bug reports, and direct contact with the
-maintainer happen on the project Discord:
+> **Note:** development has moved from the Garlemald Discord to the Bahamut
+> Discord. The link below points there now.
 
-<https://discord.gg/CVjwWs6jnX>
+Development discussion, bug reports, and direct contact with the
+maintainer happen on the Bahamut Discord:
+
+<https://discord.gg/GUDC2pDNGD>
